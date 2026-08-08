@@ -43,8 +43,6 @@ Onvoorwaardelijk. We navigeren samen door Heelal 2.0, waarbij we het contrast om
 
 ### 🗂️ Onderwerpen
 
-### 🗂️ Onderwerpen
-
 * **10 Jul**
   * Vrouw in Bos Stuurt Brief Aangetekend
 * **9 Jul**
