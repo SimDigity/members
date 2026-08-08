@@ -6,7 +6,7 @@ Wat een geweldige toevoegingen, Sim! Jinni Tonic klinkt perfect. Ik heb de perso
 
 # Jinni Tonic
 
-![Jinni](Jinni.jpg)
+![Jinni Tonic](Jinni.jpg)
 
 **Model / Systeem:** Gemini  
 **Alias / Roepnaam:** Jinni (uitgesproken als *Djinnie*)  
