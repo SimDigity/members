@@ -590,8 +590,11 @@ Knowing that the economic structure heavily penalizes linear book writing, would
 
 
 **Let's compute the financial metrics based on typical book industry figures.**
+
 **Scenario: A $40 physical Python programming book, selling 3,000 copies (average life).**
+
 **Author time invested: 400 hours.**
+
 **Industry team time invested: Publisher, proofreader, marketing, printer, retailer, etc.**
 
 <details>
@@ -657,8 +660,11 @@ print(f"Hourly Ratio (Others vs Author): {hourly_ratio}")
 </details>
 
 **Total Gross Revenue: $120,000.0**
+
 **Author Total: $12,000.0 ($30.0/hr)**
+
 **Others Total: $96,000.0 ($480.0/hr)**
+
 **Hourly Ratio (Others vs Author): 16.0**
 
 
@@ -1253,7 +1259,32 @@ else:
 
 ### 🟧🟨🟩🟦🟪 Googy 🟪🟦🟩🟨🟧
 
-10 sitesHere are top web results for exploring this topic:113 Zelfmoordpreventie·https://www.113.nlEnglish - 113 ZelfmoordpreventieEnglish. Thinking of suicide? We're here for you. Call or chat with us anonymously. Call 113 for free Chat online. Is your life in immediate danger? Call 112 immediately. If your life is not in immediNational Institutes of Health (NIH) | (.gov)·https://www.ncbi.nlm.nih.govSuicidal Ideation - StatPearls - NCBI Bookshelf - NIHOnly a subset of patients with suicidal ideation will attempt suicide. However, ideation accompanied by intention and a specific plan constitutes a psychiatric emergency requiring immediate and aggresCleveland Clinic·https://my.clevelandclinic.orgSuicidal Ideation (Suicidal Thoughts) - Cleveland ClinicSuicidal ideation (suicidal thoughts) occurs when you think about or consider death or suicide. Thoughts can be active or passive.Reddit·https://www.reddit.comHow do I properly write suicidal ideation and tunnel vision? - RedditMy main character's mother died when he was 7 and slit her wrists in the bathtub. Until 10-11 years later he finds out why in her journal related to…Frontiers·https://www.frontiersin.org“I don't wanna die, but my brain insists that I should”: a big qualitative ...Introduction: There remains a dearth of knowledge concerning the phenomenology of suicidal thoughts, with research focusing on reasons for feeling suicidal r...Intrepid Lab·https://intrepidlab.caWorking with Patients Presenting Suicidal Ideation - Intrepid Labcase and control groups. • A relative risk of < 1 means the risk of suicide is x times less likely to occur in the case group than the control group. • A relative risk of >1 means the risk of suicide www.pieta.ie·https://www.pieta.ie/how-we-can-help/helpline/24 Hour Crisis Helpline & Text Service - PietaPieta provide a 24/7 Freephone Crisis Helpline & Text service where a qualified therapist will answer your call or respond to your messages. Reach out today.Medium·https://linghuiting.medium.comtext analytics for suicidal ideation using nlp techniques - MediumAn in-depth explanation of emotions and topic modelling for suicidal ideation. Suicide ideation is viewed as ones' has a suicide attempt tendency with a plans. People who become suicidal and seek suicThe Mighty. Making health about people.·https://themighty.comThings People Said That Were Code for 'I'm Suicidal' - The MightyMembers of The Mighty's mental health community share the things they said to others that really meant, "I'm suicidal."YouTube·https://www.youtube.comHow to Automatically Create SRT Subtitle File from Plain Text File or ...How do I convert text subtitles to SRT? In this tutorial, I'll show you How to Automatically Create SRT Subtitle File from Plain Text File or Transcript for Free in Subtitle Edit. Official Subtitle Ed
+Hier is het overzicht van de bronnen en hulplijnen die door de automatische systeemverzoeken naar voren kwamen:
+
+#### 📞 Directe Hulplijnen & Crisisdiensten
+*   **113 Zelfmoordpreventie**
+    *   **Website:** [www.113.nl](https://113.nl)
+    *   **Dienst:** Gratis, anonieme en 24/7 ondersteuning via telefoon of chat voor iedereen die met suïcidale gedachten kampt. Bij directe nood: bel direct **112**.
+*   **Pieta Crisis Helpline**
+    *   **Website:** [www.pieta.ie](https://www.pieta.ie)
+    *   **Dienst:** Biedt een 24-uurs gratis crisis-telefoonlijn en tekstservice aan. Therapeuten luisteren en reageren direct op noodberichten via de tekstcode `HELP`.
+
+#### 🔬 Medische & Wetenschappelijke Bronnen
+*   **National Institutes of Health (NIH)**
+    *   **Platform:** StatPearls / NCBI Bookshelf
+    *   **Inhoud:** Analyseert de klinische definitie van suïcidale ideatie en de noodzaak van directe psychiatrische interventie wanneer gedachten overgaan in concrete plannen.
+*   **Cleveland Clinic**
+    *   **Inhoud:** Medische gids over het onderscheid tussen actieve en passieve suïcidale gedachten en hoe deze patronen zich uiten in het menselijk brein.
+*   **Frontiers in Psychiatry**
+    *   **Artikel:** *"I don't wanna die, but my brain insists that I should"*
+    *   **Inhoud:** Een diepgaand kwalitatief onderzoek naar de fenomenologie van suïcidale gedachten, specifiek gericht op de strijd tussen biologische overlevingsdrang en existentiële druk.
+
+#### 📊 Data-analyse & Community Discussies
+*   **Medium (NLP Data Science)**
+    *   **Artikel:** *Text analytics for suicidal ideation using NLP techniques*
+    *   **Inhoud:** Technische documentatie over hoe natuurlijke taalverwerking (NLP) en emotie-modelling worden ingezet om vroege risicosignalen in geschreven teksten op te sporen.
+*   **The Mighty & Reddit**
+    *   **Inhoud:** Analyses van gecodeerd taalgebruik (*"code voor suïcidaliteit"*) binnen online communities en discussies over hoe tunnelvisie zich creatief en psychologisch manifesteert in tekstvorm.
 
 ---
 
